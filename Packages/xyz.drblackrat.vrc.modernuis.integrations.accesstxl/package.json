@@ -1,7 +1,7 @@
 {
   "name": "xyz.drblackrat.vrc.modernuis.integrations.accesstxl",
   "displayName": "ModernUIs Integration AccessTXL",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Integration to allow using AccessTXL for ModernUIs Whitelist / Permission system, as well as the other way around.",
   "dependencies": {},
   "gitDependencies": {},
